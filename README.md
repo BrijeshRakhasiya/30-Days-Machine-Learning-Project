@@ -8,6 +8,6 @@
 | 3. Phishing Web Sites Detection | [https://github.com/BrijeshRakhasiya/Phishing-Web-Sites-Detection.git](https://github.com/BrijeshRakhasiya/Phishing-Web-Sites-Detection.git) |
 | 4. Brain Stroke Prediction | [https://github.com/BrijeshRakhasiya/Brain-Stroke-Prediction.git](https://github.com/BrijeshRakhasiya/Brain-Stroke-Prediction.git) |
 | 5. Apple Stock Price Prediction | [https://github.com/BrijeshRakhasiya/Apple-Stock-Price-Prediction.git](https://github.com/BrijeshRakhasiya/Apple-Stock-Price-Prediction.git) |
-| 5. Credit Card Fraud Detection | [https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git](https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git) |
+| 6. Credit Card Fraud Detection | [https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git](https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git) |
 
 
