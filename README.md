@@ -10,6 +10,7 @@
 | 5. Apple Stock Price Prediction | [https://github.com/BrijeshRakhasiya/Apple-Stock-Price-Prediction.git](https://github.com/BrijeshRakhasiya/Apple-Stock-Price-Prediction.git) |
 | 6. Credit Card Fraud Detection | [https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git](https://github.com/BrijeshRakhasiya/Credit-Card-Fraud-Detection.git) |
 | 7. Semantic Search | [https://github.com/BrijeshRakhasiya/Semantic-Search-.git](https://github.com/BrijeshRakhasiya/Semantic-Search-.git) |
-| 8.  Wine Quality Prediction | [https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git](https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git) |
+| 8. Wine Quality Prediction | [https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git](https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git) |
+| 9. Covid-19-Detection | [https://github.com/BrijeshRakhasiya/Covid-19-Detection.git](https://github.com/BrijeshRakhasiya/Covid-19-Detection.git) |
 
 
