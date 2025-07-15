@@ -12,5 +12,6 @@
 | 7. Semantic Search | [https://github.com/BrijeshRakhasiya/Semantic-Search-.git](https://github.com/BrijeshRakhasiya/Semantic-Search-.git) |
 | 8. Wine Quality Prediction | [https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git](https://github.com/BrijeshRakhasiya/Wine-Quality-Prediction.git) |
 | 9. Covid-19-Detection | [https://github.com/BrijeshRakhasiya/Covid-19-Detection.git](https://github.com/BrijeshRakhasiya/Covid-19-Detection.git) |
+| 10. Parkinson Disease Detection | [https://github.com/BrijeshRakhasiya/Parkinson-Disease-Detection.git](https://github.com/BrijeshRakhasiya/Parkinson-Disease-Detection.git) |
 
 
