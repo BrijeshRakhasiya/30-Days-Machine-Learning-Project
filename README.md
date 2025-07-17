@@ -14,5 +14,6 @@
 | 9. Covid-19-Detection | [https://github.com/BrijeshRakhasiya/Covid-19-Detection.git](https://github.com/BrijeshRakhasiya/Covid-19-Detection.git) |
 | 10. Parkinson Disease Detection | [https://github.com/BrijeshRakhasiya/Parkinson-Disease-Detection.git](https://github.com/BrijeshRakhasiya/Parkinson-Disease-Detection.git) |
 | 11. Calories Burnt Prediction | [https://github.com/BrijeshRakhasiya/Calories-Burnt-Prediction.git](https://github.com/BrijeshRakhasiya/Calories-Burnt-Prediction.git) |
+| 12. Heart Disease Prediction | [https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git) |
 
 
