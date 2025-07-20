@@ -16,5 +16,6 @@
 | 11. Calories Burnt Prediction | [https://github.com/BrijeshRakhasiya/Calories-Burnt-Prediction.git](https://github.com/BrijeshRakhasiya/Calories-Burnt-Prediction.git) |
 | 12. Heart Disease Prediction | [https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git) |
 | 13. Diamond Price Prediction | [https://github.com/BrijeshRakhasiya/Diamond-Price-Predictor.git](https://github.com/BrijeshRakhasiya/Diamond-Price-Predictor.git) |
+| 14. Hate Speech Detection | [https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git](https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git) |
 
 
