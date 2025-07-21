@@ -18,6 +18,6 @@
 | 13. Diamond Price Prediction | [https://github.com/BrijeshRakhasiya/Diamond-Price-Predictor.git](https://github.com/BrijeshRakhasiya/Diamond-Price-Predictor.git) |
 | 14. Hate Speech Detection | [https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git](https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git) |
 | 15. Medical Insurance Cost Prediction | [https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git](https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git) |
-| 15.  Diabetes Prediction | [https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git](https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git) |
+| 16. Diabetes Prediction | [https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git](https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git) |
 
 
