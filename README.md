@@ -19,5 +19,6 @@
 | 14. Hate Speech Detection | [https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git](https://github.com/BrijeshRakhasiya/Hate-Speech-Detection.git) |
 | 15. Medical Insurance Cost Prediction | [https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git](https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git) |
 | 16. Diabetes Prediction | [https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git](https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git) |
+| 17. Customer Churn Prediction | [https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git](https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git) |
 
 
