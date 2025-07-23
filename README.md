@@ -20,5 +20,6 @@
 | 15. Medical Insurance Cost Prediction | [https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git](https://github.com/BrijeshRakhasiya/Medical-Insurance-Cost-Prediction.git) |
 | 16. Diabetes Prediction | [https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git](https://github.com/BrijeshRakhasiya/Diabetes-Prediction.git) |
 | 17. Customer Churn Prediction | [https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git](https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git) |
+| 18. Customer Segmentation | [https://github.com/BrijeshRakhasiya/Customer-Segmentation.git](https://github.com/BrijeshRakhasiya/Customer-Segmentation.git) |
 
 
