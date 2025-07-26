@@ -22,5 +22,6 @@
 | 17. Customer Churn Prediction | [https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git](https://github.com/BrijeshRakhasiya/CustomerChurn-Prediction.git) |
 | 18. Customer Segmentation | [https://github.com/BrijeshRakhasiya/Customer-Segmentation.git](https://github.com/BrijeshRakhasiya/Customer-Segmentation.git) |
 | 19. Plant Disease Prediction | [https://github.com/BrijeshRakhasiya/Plant-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Plant-Disease-Prediction.git) |
+| 20. Ransomware Prediction | [https://github.com/BrijeshRakhasiya/Ransomware-Prediction.git](https://github.com/BrijeshRakhasiya/Ransomware-Prediction.git) |
 
 
