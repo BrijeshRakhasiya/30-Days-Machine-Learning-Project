@@ -25,5 +25,6 @@
 | 20. Ransomware Prediction | [https://github.com/BrijeshRakhasiya/Ransomware-Prediction.git](https://github.com/BrijeshRakhasiya/Ransomware-Prediction.git) |
 | 21. Fake Account Detection | [https://github.com/BrijeshRakhasiya/Fake-Profile-Detection-on-Social-Media.git](https://github.com/BrijeshRakhasiya/Fake-Profile-Detection-on-Social-Media.git) |
 | 22. Eye Disease Prediction | [https://github.com/BrijeshRakhasiya/Eye-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Eye-Disease-Prediction.git) |
+| 23. Pneumonia Detection | [https://github.com/BrijeshRakhasiya/PNEUMONIA-Detection.git](https://github.com/BrijeshRakhasiya/PNEUMONIA-Detection.git) |
 
 
