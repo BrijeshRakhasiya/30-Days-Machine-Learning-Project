@@ -28,5 +28,6 @@
 | 23. Pneumonia Detection | [https://github.com/BrijeshRakhasiya/PNEUMONIA-Detection.git](https://github.com/BrijeshRakhasiya/PNEUMONIA-Detection.git) |
 | 24. Brain Tumor Detection | [https://github.com/BrijeshRakhasiya/Brain-Tumor-Detection.git](https://github.com/BrijeshRakhasiya/Brain-Tumor-Detection.git) |
 | 25. Blood Cell Classification | [https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git](https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git) |
+| 26. Rainfall Prediction | [https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git](https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git) |
 
 
