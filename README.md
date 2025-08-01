@@ -29,5 +29,6 @@
 | 24. Brain Tumor Detection | [https://github.com/BrijeshRakhasiya/Brain-Tumor-Detection.git](https://github.com/BrijeshRakhasiya/Brain-Tumor-Detection.git) |
 | 25. Blood Cell Classification | [https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git](https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git) |
 | 26. Rainfall Prediction | [https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git](https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git) |
+| 27. Liver Disease Prediction | [https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git) |
 
 
