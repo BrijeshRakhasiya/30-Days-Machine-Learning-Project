@@ -30,5 +30,6 @@
 | 25. Blood Cell Classification | [https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git](https://github.com/BrijeshRakhasiya/Blood-Cell-Classification.git) |
 | 26. Rainfall Prediction | [https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git](https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git) |
 | 27. Liver Disease Prediction | [https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git) |
+| 28. Skin Cancer Classification | [https://github.com/BrijeshRakhasiya/Skin-Cancer-Classification-.git](https://github.com/BrijeshRakhasiya/Skin-Cancer-Classification-.git) |
 
 
