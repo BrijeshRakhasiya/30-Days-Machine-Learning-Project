@@ -31,5 +31,6 @@
 | 26. Rainfall Prediction | [https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git](https://github.com/BrijeshRakhasiya/Rainfall-Prediction.git) |
 | 27. Liver Disease Prediction | [https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git](https://github.com/BrijeshRakhasiya/Liver-Disease-Prediction.git) |
 | 28. Skin Cancer Classification | [https://github.com/BrijeshRakhasiya/Skin-Cancer-Classification-.git](https://github.com/BrijeshRakhasiya/Skin-Cancer-Classification-.git) |
+| 29. Drug Type Prediction | [https://github.com/BrijeshRakhasiya/Drug-Type-Prediction.git](https://github.com/BrijeshRakhasiya/Drug-Type-Prediction.git) |
 
 
